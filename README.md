@@ -5,12 +5,13 @@
 This repository maintains an **up-to-date collection** of **foundation models** and **large-scale pre-training** research specifically tailored for **biomedical imaging**.
 All papers are systematically organized by **publication year** to help researchers and clinicians navigate the rapidly evolving landscape of biomedical AI. If you find this curated gallery helpful for your research, feel free to give this repository a **star**! ⭐
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 <p align="center">
   <a href="https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models/pulls"><b>⤤ Submit a Pull Request</b></a> | 
   <a href="https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models"><b>☆ Star the Repo</b></a>
 </p>
 
----
 
 <p align="center">
   <a href="#2026"><b>🚀 2026 Papers</b></a> |
