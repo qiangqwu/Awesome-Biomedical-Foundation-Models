@@ -172,7 +172,9 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** Proposing PMC-15M for text & biomedical image contrastive learning.
 <br>
 
----
-<p align="center">
-Thanks for the fantastic works from the authors!
-</p>
+## Acknowledgement
+
+Thanks for the fantastic works from the authors! Please feel free to a pull request for submitting new papers. Thank you for all your contributions.
+<br>
+
+
