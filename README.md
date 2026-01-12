@@ -27,7 +27,7 @@ All papers are systematically organized by **publication year** to help research
 
 ### 2026
 
-> ### [Nature Medicine] A multimodal sleep foundation model for disease prediction.
+> ### [Nature Medicine] A multimodal sleep foundation model for disease prediction
 >
 > **👥 Authors:** *Rahul Thapa, Magnus Ruud Kjaer, Bryan He, Ian Covert, Hyatt Moore IV, Umaer Hanif, Gauri Ganjoo, M. Brandon Westover, Poul Jennum, Andreas Brink-Kjaer, Emmanuel Mignot, James Zou*
 >
@@ -41,7 +41,7 @@ All papers are systematically organized by **publication year** to help research
 
 ### 2025
 
-> ### [Nature Medicine] A multimodal whole-slide foundation model for pathology.
+> ### [Nature Medicine] A multimodal whole-slide foundation model for pathology
 >
 > **👥 Authors:** *Tong Ding, Sophia J. Wagner, Andrew H. Song, Richard J. Chen, Ming Y. Lu, Andrew Zhang, Anurag J. Vaidya, Guillaume Jaume, Muhammad Shaban, Ahrong Kim, Drew F. K. Williamson, Harry Robertson, Bowen Chen, Cristina Almagro-Pérez, Paul Doucet, Sharifa Sahai, Chengkuan Chen, Christina S. Chen, Daisuke Komura, Akihiro Kawabe, Mieko Ochi, Shinya Sato, Tomoyuki Yokose, Yohei Miyagi, Shumpei Ishikawa, Georg Gerber, Tingying Peng, Long Phi Le, Faisal Mahmood*
 >
@@ -52,7 +52,7 @@ All papers are systematically organized by **publication year** to help research
 > **⚙️ Computing Hardware:** 8× 80GB NVIDIA A100 GPUs (multi-node DDP).
 <br>
 
-> ### [Nature Methods] A visual–omics foundation model to bridge histopathology with spatial transcriptomics.
+> ### [Nature Methods] A visual–omics foundation model to bridge histopathology with spatial transcriptomics
 >
 > **👥 Authors:** *Weiqing Chen, Pengzhi Zhang, Tu N. Tran, Yiwei Xiao, Shengyu Li, Vrutant V. Shah, Hao Cheng, Kristopher W. Brannan, Keith Youker, Li Lai, Longhou Fang, Yu Yang, Nhat-Tu Le, Jun-ichi Abe, Shu-Hsia Chen, Qin Ma, Ken Chen, Qianqian Song, John P. Cooke, Guangyu Wang*
 >
@@ -63,7 +63,7 @@ All papers are systematically organized by **publication year** to help research
 > **⚙️ Computing Hardware:** Trained for 20 epochs using one **NVIDIA A100 80-GB GPU**.
 <br>
 
-> ### [Nature] Towards multimodal foundation models in molecular cell biology.
+> ### [Nature] Towards multimodal foundation models in molecular cell biology
 >
 > **👥 Authors:** *Haotian Cui, Alejandro Tejada-Lapuerta, Maria Brbić, Julio Saez-Rodriguez, Simona Cristea, Hani Goodarzi, Mohammad Lotfollahi, Fabian J. Theis, Bo Wang*
 >
@@ -72,7 +72,7 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** Developing multimodal foundation models pretrained on diverse **omics** datasets, including genomics, transcriptomics, and spatial profiling.
 <br>
 
-> ### [Nature Medicine] Large language model-based biological age prediction in large-scale populations.
+> ### [Nature Medicine] Large language model-based biological age prediction in large-scale populations
 >
 > **👥 Authors:** *Yanjun Li, Qi Huang, Jin Jiang, Xusheng Du, Wenxin Xiang, Shiqi Zhang, Zean Pan, Liyuan Zhao, Yuyan Cui, Limei Ke, Bo Yin, Linfeng Liu, Guoqing Feng, Shouyi Yan, Liangcai Gao, Yang Liu, Yujuan Yuan, Yanying Guo, Yuqing Yang, Weizhi Ma, Yining Yang, Qian Di*
 >
@@ -81,7 +81,7 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** A framework leveraging LLMs to estimate individual overall and organ-specific aging using health examination reports.
 <br>
 
-> ### [Nature BME] A data-efficient strategy for building high-performing medical foundation models.
+> ### [Nature BME] A data-efficient strategy for building high-performing medical foundation models
 >
 > **👥 Authors:** *Yuqi Sun, Weimin Tan, Zhuoyao Gu, Ruian He, Siyuan Chen, Miao Pang, Bo Yan*
 >
@@ -90,7 +90,7 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** Synthetic data generated via conditioning with disease labels can be leveraged for building high-performing medical foundation models.
 <br>
 
-> ### [arXiv] Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations.
+> ### [arXiv] Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations
 >
 > **👥 Authors:** *Zhijian Yang, Noel DSouza, Istvan Megyeri, Xiaojian Xu, Amin Honarmandi Shandiz, Farzin Haddadpour, Krisztian Koos, Laszlo Rusko, Emanuele Valeriano, Bharadwaj Swaninathan, Lei Wu, Parminder Bhatia, Taha Kass-Hout, Erhan Bas*
 >
@@ -101,7 +101,7 @@ All papers are systematically organized by **publication year** to help research
 
 ### 2024
 
-> ### [Nature Methods] A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities.
+> ### [Nature Methods] A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities
 >
 > **👥 Authors:** *Theodore Zhao, Yu Gu, Jianwei Yang, Naoto Usuyama, Ho Hin Lee, Sid Kiblawi, Tristan Naumann, Jianfeng Gao, Angela Crabtree, Jacob Abel, Christine Moung-Wen, Brian Piening, Carlo Bifulco, Mu Wei, Hoifung Poon, Sheng Wang*
 >
@@ -112,7 +112,7 @@ All papers are systematically organized by **publication year** to help research
 > **⚙️ Computing Hardware:** 16× NVIDIA A100-SXM4-40GB (58h training).
 <br>
 
-> ### [Nature Medicine] Towards a general-purpose foundation model for computational pathology.
+> ### [Nature Medicine] Towards a general-purpose foundation model for computational pathology
 >
 > **👥 Authors:** *Richard J. Chen, Tong Ding, Ming Y. Lu, Drew F. K. Williamson, Guillaume Jaume, Andrew H. Song, Bowen Chen, Andrew Zhang, Daniel Shao, Muhammad Shaban, Mane Williams, Lukas Oldenburg, Luca L. Weishaupt, Judy J. Wang, Anurag Vaidya, Long Phi Le, Georg Gerber, Sharifa Sahai, Walt Williams, Faisal Mahmood*
 >
@@ -123,7 +123,7 @@ All papers are systematically organized by **publication year** to help research
 > **⚙️ Computing Hardware:** 4 × 8 80GB NVIDIA A100 GPU nodes.
 <br>
 
-> ### [Nature Medicine] A visual-language foundation model for computational pathology.
+> ### [Nature Medicine] A visual-language foundation model for computational pathology
 >
 > **👥 Authors:** *Ming Y. Lu, Bowen Chen, Drew F. K. Williamson, Richard J. Chen, Ivy Liang, Tong Ding, Guillaume Jaume, Igor Odintsov, Long Phi Le, Georg Gerber, Anil V. Parwani, Andrew Zhang, Faisal Mahmood*
 >
@@ -134,7 +134,7 @@ All papers are systematically organized by **publication year** to help research
 > **⚙️ Computing Hardware:** 8× NVIDIA A100 80-GB.
 <br>
 
-> ### [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI.
+> ### [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI
 >
 > **👥 Authors:** *Haotian Cui, Chloe Wang, Hassaan Maan, Kuan Pang, Fengning Luo, Nan Duan, Bo Wang*
 >
@@ -143,7 +143,7 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** Foundation model for single-cell biology constructed via generative MAE pre-training.
 <br>
 
-> ### [NEJM AI] A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs.
+> ### [NEJM AI] A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs
 >
 > **👥 Authors:** *Sheng Zhang, Yanbo Xu, Naoto Usuyama, Hanwen Xu, Jaspreet Bagga, Robert Tinn, Sam Preston, Rajesh Rao, Mu Wei, Naveen Valluri, Cliff Wong, Andrea Tupini, Yu Wang, Matt Mazzola, Swadheen Shukla, Lars Liden, Jianfeng Gao, Matthew P. Lungren, Tristan Naumann, Sheng Wang, Hoifung Poon*
 >
@@ -152,7 +152,7 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** CLIP-Style Pre-training using the PCM-15M dataset.
 <br>
 
-> ### MedImageInsight: AN OPEN-SOURCE EMBEDDING MODEL FOR GENERAL DOMAIN MEDICAL IMAGING.
+> ### MedImageInsight: AN OPEN-SOURCE EMBEDDING MODEL FOR GENERAL DOMAIN MEDICAL IMAGING
 >
 > **👥 Authors:** *Noel C. F. Codella, Ying Jin, Shrey Jain, Yu Gu, Ho Hin Lee, Asma Ben Abacha, Jenq-Neng Hwang, Thomas Lin, Ivan Tarapov, Matthew Lungren, Mu Wei*
 >
@@ -163,7 +163,7 @@ All papers are systematically organized by **publication year** to help research
 
 ### 2023
 
-> ### 🔬 [Biomedical Imaging] BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs.
+> ### 🔬 [Biomedical Imaging] BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs
 >
 > **👥 Authors:** *Sheng Zhang, Yanbo Xu, Naoto Usuyama, Hanwen Xu, Jaspreet Bagga*
 >
