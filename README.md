@@ -5,7 +5,10 @@
 This repository maintains an **up-to-date collection** of **foundation models** and **large-scale pre-training** research specifically tailored for **biomedical imaging**.
 All papers are systematically organized by **publication year** to help researchers and clinicians navigate the rapidly evolving landscape of biomedical AI. If you find this curated gallery helpful for your research, feel free to give this repository a **star**! ⭐
 
-[**⤤ Submit a Pull Request**]([https://github.com/your-repo](https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models)/pulls) | [**☆ Star the Repo**](https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models)
+<p align="center">
+  <a href="https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models/pulls"><b>⤤ Submit a Pull Request</b></a> | 
+  <a href="https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models"><b>☆ Star the Repo</b></a>
+</p>
 
 ---
 
