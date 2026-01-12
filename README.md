@@ -2,9 +2,10 @@
 
 # 🧠 Awesome Biomedical Foundation Models
 
-**A curated gallery of foundation models and large-scale pre-training papers for biomedical imaging and multi-omics.**
+This repository maintains an **up-to-date collection** of **foundation models** and **large-scale pre-training** research specifically tailored for **biomedical imaging**.
+All papers are systematically organized by **publication year** to help researchers and clinicians navigate the rapidly evolving landscape of biomedical AI. If you find this curated gallery helpful for your research, feel free to give this repository a **star**! ⭐
 
-[**⤤ Submit a Pull Request**](https://github.com/your-repo/pulls) | [**☆ Star the Repo**](https://github.com/your-repo)
+[**⤤ Submit a Pull Request**]([https://github.com/your-repo](https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models)/pulls) | [**☆ Star the Repo**](https://github.com/qiangqwu/Awesome-Biomedical-Foundation-Models)
 
 ---
 
