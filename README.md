@@ -100,7 +100,79 @@ All papers are systematically organized by **publication year** to help research
 > **💡 Summary:** MRI-specific vision-language foundation model for 3D representations.
 <br>
 
+> ### [Nature] A fully open AI foundation model applied to chest radiography
+>
+> **👥 Authors:** *Yutong Xie, Sibei Ji, Quanzheng Li, et al.*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41586-025-09079-8)
+>
+> **💡 Summary:** Ark+, a fully open-source foundation model for radiology using cycle-accumulated knowledge distillation to integrate expertise from various specialized models.
+<br>
+
+> ### [Nature Methods] A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities
+>
+> **👥 Authors:** *Theodore Zhao, Yu Gu, Jianwei Yang, Naoto Usuyama, Ho Hin Lee, Sid Kiblawi, Tristan Naumann, Jianfeng Gao, Angela Crabtree, Jacob Abel, Christine Moung-Wen, Brian Piening, Carlo Bifulco, Mu Wei, Hoifung Poon, Sheng Wang*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41592-024-02499-w)
+>
+> **💡 Summary:** BiomedParse, a foundation model capable of performing segmentation, detection, and recognition simultaneously across 9 different imaging modalities.
+<br>
+
+> ### [Nature Methods] A visual–omics foundation model to bridge histopathology with spatial transcriptomics
+>
+> **👥 Authors:** *Xuan-Hieu Hoang, Zongrui Dai, Cheng-Hao Deng, et al.*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41592-025-02707-1)
+>
+> **💡 Summary:** OmiCLIP, the first vision-language-omics foundation model designed to align pathology images with high-resolution spatial transcriptomics data.
+<br>
+
+> ### [Nature Methods] Nicheformer: a foundation model for single-cell and spatial omics
+>
+> **👥 Authors:** *Marius Dieckmann, et al.*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41592-025-02814-z)
+>
+> **💡 Summary:** Nicheformer, pre-trained on over 50 million cells, captures the spatial context ("niche") and gene expression patterns within single-cell and spatial omics data.
+<br>
+
 ### 2024
+
+> ### [Nature] A whole-slide foundation model for digital pathology from real-world data
+>
+> **👥 Authors:** *Hanwen Xu, Naoto Usuyama, Jaspreet Bagga, Sheng Zhang, Robert Tinn, Sam Preston, Rajesh Rao, Mu Wei, Naveen Valluri, Cliff Wong, Matthew P. Lungren, Tristan Naumann, Hoifung Poon*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41586-024-07441-w)
+>
+> **💡 Summary:** Prov-GigaPath, a "Giga-pixel" scale foundation model for pathology using a Long-context Transformer to process entire whole-slide images (WSIs).
+<br>
+
+> ### [Nature Medicine] Towards a general-purpose foundation model for computational pathology
+>
+> **👥 Authors:** *Richard J. Chen, Tong Ding, Ming Y. Lu, Drew F. K. Williamson, Guillaume Jaume, Andrew H. Song, Bowen Chen, Andrew Zhang, Daniel Shao, Muhammad Shaban, Mane Williams, Lukas Oldenburg, Luca L. Weishaupt, Judy J. Wang, Anurag Vaidya, Long Phi Le, Georg Gerber, Sharifa Sahai, Walt Williams, Faisal Mahmood*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41591-024-02857-3)
+>
+> **💡 Summary:** UNI, a general-purpose self-supervised model for pathology, pretrained using over 100 million images from 20 different organ systems.
+<br>
+
+> ### [Nature Medicine] A foundation model for clinical-grade computational pathology
+>
+> **👥 Authors:** *Eugene Vorontsov, Alican Bozkurt, Adam Casson, et al.*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41591-024-03141-0)
+>
+> **💡 Summary:** Virchow, a pathology foundation model trained on 1.5 million WSIs, demonstrating high performance across diverse clinical-grade cancer detection tasks.
+<br>
+
+> ### [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI
+>
+> **👥 Authors:** *Haotian Cui, Chloe Wang, Hassaan Maan, Kuan Pang, Fengning Luo, Nan Duan, Bo Wang*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41592-024-02201-0)
+>
+> **💡 Summary:** A foundation model for single-cell biology constructed via generative Masked Autoencoder (MAE) pre-training on millions of single-cell profiles.
+<br>
 
 > ### [Nature Methods] A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities
 >
@@ -135,15 +207,6 @@ All papers are systematically organized by **publication year** to help research
 > **⚙️ Computing Hardware:** 8× NVIDIA A100 80-GB.
 <br>
 
-> ### [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI
->
-> **👥 Authors:** *Haotian Cui, Chloe Wang, Hassaan Maan, Kuan Pang, Fengning Luo, Nan Duan, Bo Wang*
->
-> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41592-024-02201-0)
->
-> **💡 Summary:** Foundation model for single-cell biology constructed via generative MAE pre-training.
-<br>
-
 > ### [NEJM AI] A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs
 >
 > **👥 Authors:** *Sheng Zhang, Yanbo Xu, Naoto Usuyama, Hanwen Xu, Jaspreet Bagga, Robert Tinn, Sam Preston, Rajesh Rao, Mu Wei, Naveen Valluri, Cliff Wong, Andrea Tupini, Yu Wang, Matt Mazzola, Swadheen Shukla, Lars Liden, Jianfeng Gao, Matthew P. Lungren, Tristan Naumann, Sheng Wang, Hoifung Poon*
@@ -171,6 +234,15 @@ All papers are systematically organized by **publication year** to help research
 > **📄 Link:** [[Read the Paper]](https://arxiv.org/abs/2303.00915)
 >
 > **💡 Summary:** Proposing PMC-15M for text & biomedical image contrastive learning.
+<br>
+
+> ### [Nature] A foundation model for generalizable disease detection from retinal images
+>
+> **👥 Authors:** *Yukun Zhou, Mark A. Chia, Robert T. Wagner, et al.*
+>
+> **📄 Link:** [[Read the Paper]](https://www.nature.com/articles/s41586-023-06555-x)
+>
+> **💡 Summary:** RETFound, a vision foundation model for ophthalmology trained on 1.6 million retinal images, providing robust performance for both eye and systemic disease detection.
 <br>
 
 ## Acknowledgement
